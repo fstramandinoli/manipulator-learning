@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     install_requires=['pybullet',
                       'numpy',
-                      'liegroups @ git+ssh://git@github.com/utiasSTARS/liegroups@master#egg=liegroups',
+                      'liegroups @ git+https://git@github.com/utiasSTARS/liegroups@master#egg=liegroups',
                       'gym',
                       'transforms3d',
                       'Pillow'],
